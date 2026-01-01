@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
 body {
     font-family: "Cormorant Garamond", serif;
     font-size: 20px; /* Recommended: Cormorant runs small, so 20px is readable like a normal 16px */
@@ -86,3 +87,4 @@ footer {
     padding-top: 1rem;
 
 }
+
