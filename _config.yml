@@ -1,7 +1,8 @@
 title: "The Whisper"
 description: "A book."
 baseurl: ""
-url: "thewhisper.blog"
+url: "https://thewhisper.blog"
 markdown: kramdown
 
 permalink: /:title/
+
