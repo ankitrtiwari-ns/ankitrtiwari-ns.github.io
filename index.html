@@ -2,7 +2,9 @@
 layout: default
 title: Index
 ---
-
+<head>
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png"> </head>
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
@@ -10,4 +12,5 @@ title: Index
       <span class="date">{{ post.date | date: "%b %d, %Y" }}</span>
     </li>
   {% endfor %}
+
 </ul>
