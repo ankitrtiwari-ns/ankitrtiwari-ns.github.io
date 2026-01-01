@@ -1,6 +1,0 @@
-title: "The Whisper"
-description: "A book."
-baseurl: "thewhisper.blog"
-url: "thewhisper.blog"
-markdown: kramdown
-permalink: /:title/
