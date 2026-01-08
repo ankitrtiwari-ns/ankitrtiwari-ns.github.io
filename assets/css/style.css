@@ -2,10 +2,10 @@
 body {
     font-family: "Cormorant Garamond", serif;
     font-size: 20px; /* Recommended: Cormorant runs small, so 20px is readable like a normal 16px */
-    font-weight: 400;
+    font-weight: 450;
     line-height: 1.6;
     /* font-family: "Garamond", "Baskerville", "Georgia", serif; */
-    color: #111;
+    color: #000;
     background-color: #fff;
     max-width: 650px;
     margin: 4rem auto;
@@ -87,6 +87,7 @@ footer {
     padding-top: 1rem;
 
 }
+
 
 
 
