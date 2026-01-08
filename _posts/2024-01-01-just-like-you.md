@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Just like You"
+author: Ankit R. Tiwari
 ---
 
 I am everything.
@@ -100,5 +101,6 @@ I am is.
 I am was.
 
 I am due.
+
 
 Just like You.
