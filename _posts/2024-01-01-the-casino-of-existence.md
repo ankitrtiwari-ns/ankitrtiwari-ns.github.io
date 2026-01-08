@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Casino of Existence"
+author: Ankit R. Tiwari
 ---
 
 Never did we ask to enter, but one day we find ourselves inside. The doors close behind us, welcome to the great casino. A thousand tables glowing, dealers smiling with fixed grins, the endless shuffle of cards. In our hands, a stack of chips called life.
@@ -28,5 +29,6 @@ To play lucidly is to laugh while betting chips you know you’ll never keep. It
 Time is the dealer that never sleeps. Slowly, steadily, it rakes in your chips. The debts, the winnings, the secrets you hide — all returns to the endless void.
 
 And so yes, the casino is rigged. The house always wins. But maybe winning was never the point. Maybe the beauty lies in how we play, how we bluff, how we laugh as the chips lay.
+
 
 So—how do you want to lose?
